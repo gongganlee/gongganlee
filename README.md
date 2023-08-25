@@ -3,7 +3,7 @@ blog : https://gongganlee.tistory.com/
 e-mail : gongganlee@gmail.com
 
 ### 👀 GitHub Stats
-![space's GitHub stats](https://github-readme-stats.vercel.app/api?username=gongganlee&show_icons=true&theme=graywhite)
+![sun_forest's GitHub stats](https://github-readme-stats.vercel.app/api?username=gongganlee&show_icons=true&theme=graywhite)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gongganlee&layout=compact&theme=graywhite)
 

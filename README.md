@@ -1,4 +1,4 @@
-### 💬 Introduce
+### 💬 Introduce : HELLO WORLD!
 blog : [tistory](https://gongganlee.tistory.com/ "티스토리") / 
 e-mail : gongganlee@gmail.com
 
